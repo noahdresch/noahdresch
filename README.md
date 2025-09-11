@@ -2,11 +2,11 @@
 
 **`Software Student`**
 
-Me chamo Noah, tenho 21 anos e sou natural do Rio Grande do Sul - Brasil, sou estudante de Engenharia de Software, com conhecimentos em linguagens de programação, banco de dados e desenvolvimento web. Tenho habilidade em resolução de problemas, aprendizagem rápida e sou altamente motivado, sempre em busca de desenvolvimento pessoal e profissional. A cada projeto, busco aprimorar minhas habilidades técnicas e desenvolver soluções que realmente façam a diferença. Estou sempre em busca de aprendizado, desafios e oportunidades que me permitam crescer tanto profissional quanto pessoalmente.
+My name is Noah, I’m 21 years old, and I’m from Rio Grande do Sul, Brazil. I’m currently pursuing a degree in Software Engineering and have experience in programming languages, databases, and web development. I’m a quick learner with strong problem-solving skills and a highly motivated mindset, always striving for personal and professional growth. I enjoy taking on challenges and continuously improving my technical abilities to create solutions that make a real impact. I’m always seeking opportunities to learn, grow, and contribute both professionally and personally.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -108,7 +108,7 @@ Me chamo Noah, tenho 21 anos e sou natural do Rio Grande do Sul - Brasil, sou es
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
 <img 
