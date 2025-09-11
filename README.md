@@ -116,13 +116,13 @@ Me chamo Noah, tenho 21 anos e sou natural do Rio Grande do Sul - Brasil, sou es
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=noahdresch&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=noahdresch&show_icons=true&theme=dark&include_all_commits=true" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahdresch&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=noahdresch&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
